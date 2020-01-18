@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">listActivity</string>
+    <string-array name="students_array">
+        <item>Arjan</item>
+        <item>Alok</item>
+        <item>Alien</item>
+        <item>Arom</item>
+        <item>Aman</item>
+        <item>Aarjaon</item>
+        <item>Arya</item>
+        <item>Amon</item>
+
+
+    </string-array>
+</resources>
